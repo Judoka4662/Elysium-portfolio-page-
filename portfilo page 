@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Elysium. LLC</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+  <div class="title-logo">
+    <section>
+        <div class="container container-style1">
+             <div class="title-logo">
+                 <div class="custom-title">/*The world is yours*/</div>
+                 <!--<div class="sub-title">/*The World is yours*/</div>-->
+             </div>
+        </div>
+    </section>
+
+        <div class="topnav">
+            <a href="Bio.asp">Bio</a>
+            <a href="Portfolio.asp">Portfolio</a>
+            <a href="Contact.asp">Contact</a>
+        </div>
+
+
+<div class="container container-style3"><img src="https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id==VjJ-DKKtampycxdg_ZoEpCv0Bz3alCW77_4Un_rJ-rwmPobtZEa9ajkQULyLeIKchOqgpXSQPIt7834jXjyRXCwNNg/messages/@.id==ACbFCmoAACSbWcm01A82iLFKGKA/content/parts/@.id==2.2/thumbnail?appId=YahooMailNeo&pid=2.2" style="width:200px;height:350px;"/>
+
+              <div class="container container-style2">
+                  <div class="information">
+                    <div class="bio-header">Bio</div>
+                    <p>
+                      A 23 year-old self-taught front-end Developer with practical experience building websites in HTML5 and CSS3.
+                    </p>
+                    <p>
+                      /* Web Developer *//* Business Owner *//* College Student */
+                    </p>
+                  </div>
+
+
+
+
+          <div class="container container-style2">
+            <div class="information">
+                <div class="bio-header"><h2>Portfolio</h2></div>
+                <p>
+                    Coming soon
+                </p>
+            </div>
+
+          <div class="container container-style2">
+            <div class="information">
+                <div class="bio-header"><h2>Contact</h2></div>
+
+                <button class="btn btn-block btn-primary"><a href="https://github.com/Judoka4662">GitHub</a></button>
+
+                <button class="btn btn-block btn-primary"><a href="https://www.facebook.com/peter.sifuentez.9">Facebook</a></button>
+
+                <button class="btn btn-block btn-primary"><a href="https://twitter.com/sifuentez_peter">Twitter</a></button>
+
+                <button class="btn btn-block btn-primary"><a href="https://www.linkedin.com/in/petersifuentez/">Linkedin</a></button>
+
+                <p>
+                    If you have any questions feel free to view my social media or <button class="btn btn-block btn-primary"><a href="mailto:sifuentez_peter@yahoo.com">email</a></button> me.
+                </p>
+
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>
+                &copy; Elysium. LLC 2017. All Rights Reversed
+            </p>
+        </div>
+
+    </body>
+</html>
